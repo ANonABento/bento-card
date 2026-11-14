@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+legacy/print/
+legacy/*.jpg
+legacy/*.json
+legacy/reference.png
+*.ttf

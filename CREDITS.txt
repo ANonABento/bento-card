@@ -1,0 +1,7 @@
+Bento business card - asset credits
+- Mail icon: Lucide "mail" (https://lucide.dev), ISC License, Copyright (c) Lucide Contributors. Stroke width adjusted.
+- GitHub + LinkedIn icons: Font Awesome Free 6 brands (https://fontawesome.com), icons CC BY 4.0, font files SIL OFL 1.1.
+- Name font: Archivo (Google Fonts), SIL Open Font License 1.1.
+- Body font: Instrument Sans (Google Fonts), SIL Open Font License 1.1.
+- Character line art: Kevin Jiang's own reference drawing (assets/reference.png). All rights reserved by Kevin.
+Fonts and icons are downloaded at build time from their upstream GitHub repos; none are vendored here.

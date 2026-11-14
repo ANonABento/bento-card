@@ -1,0 +1,9 @@
+numpy
+pillow
+scikit-image
+segno
+cairosvg
+zxing-cpp
+img2pdf
+opencv-python-headless
+pytest
